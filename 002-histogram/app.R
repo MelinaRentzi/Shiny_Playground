@@ -1,10 +1,4 @@
-####################################
-# Data Professor                   #
-# http://youtube.com/dataprofessor #
-# http://github.com/dataprofessor  #
-####################################
-
-# Modified from https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/
+# https://stat.ethz.ch/R-manual/R-patched/library/datasets/html/crimtab.html
 
 library(shiny)
 data(crimtab)
